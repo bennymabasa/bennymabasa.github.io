@@ -24,4 +24,4 @@ Just open `index.html` in your browser or use a local server.
 
 ---
 
-Built with ❤️ by Benny
+Built with by Benny
